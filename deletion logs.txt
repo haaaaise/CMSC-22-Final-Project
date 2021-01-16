@@ -1,0 +1,34 @@
+deleted code
+
+Player.java line 42   
+	// TODO calculate total activate pieces left
+BoardUtils.java line 105 
+    	// if (piece != null)
+    	//   System.out.println(piece);
+BoardPanel.java line 734
+	// TODO Improve code redundancy
+MoveTest.java line 24
+    // TODO: exception handling
+BoardTest.java line 48
+  public static void pieceAllianceCheck() {
+    board.buildBoard(builder.createDemoBoardBuild());
+    for (int i = 0; i < BoardUtils.ALL_TILES_COUNT; i++) {
+      final Tile currentTile = board.getTile(i);
+      if (currentTile.isTileOccupied() &&
+          currentTile.getTerritory() != currentTile.getPiece().getPieceAlliance()) {
+        allianceErrorDetected = true;
+        tilePieceAllianceErrors.put(i, "E: " + currentTile.getPiece().getPieceAlliance() +
+            " " + currentTile.getPiece().getRank() +
+            " on " + currentTile.getTerritory() + " Territory");
+      }
+    }
+
+    if (allianceErrorDetected) {
+      System.out.println("Board tile piece alliance  check FAILED");
+      for (Map.Entry<Integer, String> entry : tilePieceAllianceErrors.entrySet()) {
+        System.out.println("Tile" + entry.getKey() + ", " + entry.getValue());
+      }
+    } else {
+      System.out.println("Board tile piece alliance check ...PASSED");
+    }
+  }

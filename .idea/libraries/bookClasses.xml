@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bookClasses">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bookClasses/javazoom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/bookClasses/AVIDemo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/bookClasses/jmf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
