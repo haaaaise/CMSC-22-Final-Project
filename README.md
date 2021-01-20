@@ -21,14 +21,25 @@ More info on [Game of the Generals](http://www.geekyhobbies.com/game-of-the-gene
 
 ![Game of the Generals](Reference_1.png)
 
+# Links
+
+## Design Patterns Used(https://youtu.be/uIgmefjcMkw)
+## 3 Cycles of TDD(https://youtu.be/QMbjhEkmXO8)
+## Best Practices(https://youtu.be/TS-gbmrsCDI)
+## Demo Video(https://youtu.be/XcjAtyF9p8Q)
+## Full Playlist(https://youtu.be/XcjAtyF9p8Q)
+
 # Resources and References Used:
 
 ## Major Resources:
   - [Some Indian's Chess Engine Code — VERY IMPORTANT](https://github.com/amir650/AxisWidow-Chess)
+  - [Another Chess Engine Tutorial — ALSO VERY IMPORTANT](https://harmoniaphilosophica.com/2018/07/23/how-to-code-a-chess-program-in-one-day-c-and-java-examples/)
   - [Java Chess Engine Tutorial](https://www.youtube.com/watch?v=h8fSdSUKttk&list=PLOJzCFLZdG4zk5d-1_ah2B4kqZSeIlWtt)
   - [Java Tutorial - Creating a Minesweeper](https://www.youtube.com/watch?v=RFpJp62ZoY8&list=PLGxHvpw-PAk6QvPw0fYe8bks31GRKvymK)
   - [Game of the Generals Info](http://www.geekyhobbies.com/game-of-the-generals-aka-salpakan-review-and-rules/)
   - [Readme Picture](https://manigerz34.files.wordpress.com/2010/06/game_of_the_generals_board1.png)
+  - [Java Graphics Programming](https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe.html)
+
 ## Debugging References:
   - [Reading Java Files](https://www.baeldung.com/reading-file-in-java)
   - [Accessing Resources](https://docs.oracle.com/javase/8/docs/technotes/guides/lang/resources.html)
