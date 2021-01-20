@@ -4,9 +4,9 @@
     <root id="root">
       <element id="archive" name="Rebirth.jar">
         <element id="directory" name="META-INF">
-          <element id="file-copy" path="$PROJECT_DIR$/src/game/META-INF/MANIFEST.MF" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/com/BrethrenAce/GameStart/META-INF/MANIFEST.MF" />
         </element>
-        <element id="module-output" name="Rebirth" />
+        <element id="module-output" name="WoW(Blitz!)" />
       </element>
       <element id="file-copy" path="$PROJECT_DIR$/lib/annotations-19.0.0.jar" />
       <element id="library" level="project" name="bookClasses" />

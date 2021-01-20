@@ -7,8 +7,6 @@ BoardUtils.java line 105
     	//   System.out.println(piece);
 BoardPanel.java line 734
 	// TODO Improve code redundancy
-MoveTest.java line 24
-    // TODO: exception handling
 BoardTest.java line 48
   public static void pieceAllianceCheck() {
     board.buildBoard(builder.createDemoBoardBuild());
